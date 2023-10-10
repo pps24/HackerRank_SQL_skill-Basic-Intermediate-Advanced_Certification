@@ -1,3 +1,3 @@
 # project_demo_1
-This is my first git repository.
+This is my first git repository.<br>
 Author - Pratheek Shenoy
