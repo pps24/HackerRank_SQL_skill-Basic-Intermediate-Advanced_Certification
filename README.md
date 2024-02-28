@@ -1,3 +1,2 @@
-# project_demo_1
-This is my first git repository.<br>
-Author - Pratheek Shenoy
+# Hackerrank-SQL_skill-basic-intermediate-advanced-certification
+
