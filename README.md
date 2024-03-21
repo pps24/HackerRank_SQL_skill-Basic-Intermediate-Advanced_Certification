@@ -8,8 +8,7 @@ This folder contains my HackerRank SQL skills certificates. These certificates s
    ![basic](basic.png)
    - [Certificate Link](https://www.hackerrank.com/certificates/bbdcb204105b)
 
-### SQL Intermediate Certificate ###
-   ![intermediate](intermediate.png)
+
    - [Certificate Link](https://www.hackerrank.com/certificates/8b07f749a2ff)
 
 ### SQL Advanced Certificate ###
